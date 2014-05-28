@@ -1,0 +1,7 @@
+# Logfile created on 2014-05-28 14:28:23 -0400 by logger.rb/44203
+I, [2014-05-28T14:28:23.932940 #63170]  INFO -- : 0:  mini_portile (0.6.0) from /Users/sergey/.rvm/gems/ruby-2.1.1/specifications/mini_portile-0.6.0.gemspec
+I, [2014-05-28T14:28:23.933432 #63170]  INFO -- : 0:  nokogiri (1.6.2.1) from /Users/sergey/.rvm/gems/ruby-2.1.1/specifications/nokogiri-1.6.2.1.gemspec
+I, [2014-05-28T14:28:24.770201 #63170]  INFO -- : 0:  nori (2.4.0) from /Users/sergey/.rvm/gems/ruby-2.1.1/specifications/nori-2.4.0.gemspec
+I, [2014-05-28T14:28:24.770742 #63170]  INFO -- : 0:  rack (1.5.2) from /Users/sergey/.rvm/gems/ruby-2.1.1/specifications/rack-1.5.2.gemspec
+I, [2014-05-28T14:28:34.540275 #63170]  INFO -- : 0:  puma (2.8.2) from /Users/sergey/.rvm/gems/ruby-2.1.1/specifications/puma-2.8.2.gemspec
+I, [2014-05-28T14:28:34.540933 #63170]  INFO -- : 0:  bundler (1.5.1) from /Users/sergey/.rvm/gems/ruby-2.1.1@global/specifications/bundler-1.5.1.gemspec
